@@ -10,11 +10,11 @@ export default class Navigation extends Component {
                 </div>
 
                 <div className="middle-column">
-
+                    <input type="text" placeholder="search" />
                 </div>
 
                 <div className="right-column">
-                    
+
                 </div>
             </div>
         )
